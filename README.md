@@ -37,7 +37,7 @@ Il progetto è stato organizzato in più notebooks in base ai modelli e alle div
 | Nome File | Descrizione |
 | :---: | :---: |
 | `dataset_managment.ipynb` | Automatizza il download, l'upload su Google Drive e lo split del dataset nelle codifiche RGB e LAB, preparando i dati per l'addestramento dei modelli di colorazione. |
-| `AE.ipynb` | Implementazione, analisi e confronto di tre configurazioni distinte di Autoencoder, addestrate separatamente utilizzando le due diverse codifiche cromatiche adottate nel caso di studio: RGB e LAB. |
+| `AE.ipynb` | Implementazione, analisi e confronto di quattro configurazioni distinte di Autoencoder, addestrate separatamente utilizzando le due diverse codifiche cromatiche adottate nel caso di studio: RGB e LAB. |
 | `GAN.ipynb`| Implementazione e addestramento della variante cGAN Pix2Pix (Generative Adversarial Network) utilizzando la codifica colore del caso di studio, per un confronto generativo con gli Autoencoder. |
 
 </div>
